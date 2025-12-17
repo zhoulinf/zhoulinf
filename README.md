@@ -108,7 +108,7 @@
 
 <p><em>person_blog</em></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/zhoulinf/personal_blog)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhoulinf&layout=compact)](https://github.com/zhoulinf/personal_blog)
 
 
 <!-- links -->
