@@ -22,7 +22,7 @@
 - 👯 积极使用n8n 帮助自己完成一些自动化工作 ...
 - 🤔 学习prosemirror 使用 ...
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhoulinf)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 🧠 About Me
 
@@ -102,13 +102,12 @@
 
 > 持续开发中...
 
-<p  align="center">
-  <img src="https://raw.githubusercontent.com/zhoulinf/personal_blog/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
-  <img src="https://raw.githubusercontent.com/zhoulinf/personal_blog/master/profile-summary-card-output/default/1-repos-per-language.svg">
-  <img src="https://raw.githubusercontent.com/zhoulinf/personal_blog/master/profile-summary-card-output/default/2-most-commit-language.svg">
-  </br>
-</p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhoulinf&show_icons=true&theme=radical)
+
+
+> person_blog
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/zhoulinf/person_blog)
 
 
 <!-- links -->
