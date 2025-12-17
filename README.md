@@ -1,96 +1,123 @@
-<h1 align="center">Hi 👋, I'm linfeng zhou</h1>
-<h3 align="center">Node.js 全栈工程师 · 前端工程化</h3>
+<h1 align="left" id="zhoulinf-title">:wave: Hello there! I'm linfeng zhou</h1>
+<h3 align="left">Node.js 全栈工程师 · 前端工程化</h3>
 
-<p align="center">
-  <a href="https://github.com/你的GitHub用户名">
-    <img src="https://img.shields.io/github/followers/你的GitHub用户名?label=Followers&style=social" />
+<p align="left">
+  <a href="https://github.com/zhoulinf/zhoulinf">
+    <img src="https://komarev.com/ghpvc/?username=zhoulinf" alt="page views" />
   </a>
-  <img src="https://img.shields.io/badge/Code-Engineering%20Driven-blue" />
-  <img src="https://img.shields.io/badge/AI-Efficiency%20Boosting-purple" />
+  <!-- <a href="https://jacobcolvin.com">
+    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjacobcolvin.com">
+  </a> -->
+  <a href="https://github.com/zhoulinf?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/zhoulinf?style=flat&logo=github">
+  </a>
 </p>
 
----
+<a href="#zhoulinf-title">
+  <img src="https://raw.githubusercontent.com/zhoulinf/github-stats-transparent/output/generated/overview.svg" alt="zhoulinf" align="right" />
+</a>
+
 
 ## 🧠 About Me
 
 - 💻 **Node.js 全栈开发者**  
 - 🧩 深入研究 **前端工程化体系**（构建、规范、工具链、架构）  
-- ⚛️ 专注 **React 源码机制 & 运行时原理**
 - 🛠️ 擅长构建 **高可维护性 / 高性能 / 可扩展** 的应用系统
-- 🚀 **效率驱动者**：将 **工程化思维 × AI 技术** 深度结合，提升开发体验与交付效率
+- 🚀 **效率驱动者**：将 **工程化思维 × AI 技术** 深度结合，提升开发效率
 
 > 我关注的不只是「能跑」，而是 **为什么这么设计、如何长期演进**。
 
 ---
 
-## 🔧 Tech Stack
 
-### Frontend
-- React / Hooks / Concurrent Features
-- TypeScript / JavaScript (ESNext)
-- Vite / Webpack / Rollup
-- Micro-Frontend / Monorepo
+<br>
 
-### Backend
-- Node.js / NestJS / Express
-- REST / GraphQL
-- RPC / BFF Architecture
+<h2 align="left" id="zhoulinf-tech">技术栈</h2>
 
-### Engineering
-- 前端工程化体系设计
-- CLI 工具 & 自动化脚本
-- Code Quality / Lint / CI/CD
-- 性能优化 & 可观测性
+> 工具, 语言, 以及其他我喜欢的工具或者辅助库.
 
-### AI × Dev
-- AI 辅助开发工具链
-- Prompt Engineering for Dev
-- 自动化代码生成 & Review
-- 智能工作流优化
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#zhoulinf-tech">
+        <img src="./img/javascript-original.svg" width="48" height="48" alt="Javascript" />
+      </a>
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+      <a href="#zhoulinf-tech">
+        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#zhoulinf-tech">
+        <img src="./img/react-original.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>React
+    </td>
+        <td align="center" width="96">
+      <a href="#zhoulinf-tech">
+        <img src="./img/vue.svg" width="48" height="48" alt="Vue" />
+      </a>
+      <br>Vue
+      </td>
+          <td align="center" width="96">
+      <a href="#zhoulinf-tech">
+        <img src="./img/nest.svg" width="48" height="48" alt="Nest" />
+      </a>
+      <br>Nest
+    </td>
+  </tr>
+  <tr>
+    </td>
+      <td align="center" width="96">
+      <a href="#zhoulinf-tech">
+        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
+      </a>
+      <br>Sass
+    </td>
+    <td align="center" width="96">
+      <a href="#zhoulinf-tech">
+        <img src="./img/mysql-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>Mysql
+    </td>
+    <td align="center" width="96"> 
+      <a href="#zhoulinf-tech" >
+        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+  </tr>
+</table>
 
----
+<h2 align="left">编码情况</h2>
 
-## 🧩 What I’m Focusing On
+> 持续开发中...
 
-- 🔍 React 内部机制（Fiber / Scheduler / Update）
-- 🏗️ 可规模化的前端工程架构
-- 🤖 AI 驱动的开发体验（DX）升级
-- ⚡ 高性能 Web 应用实践
+<!-- prettier-ignore-start -->
+<!-- START_SECTION:ascii_graph -->
 
----
+```
+  2204.6 hr  ┤╭────────────────────────────────────────────────────────────────────────────────────────────────── 
+  2204.6 hr  ┤│                                                                                                   
+  2204.6 hr  ┤│                                                                                                   
+  2204.6 hr  ┤│                                                                                                   
+  2204.6 hr  ┤│                                                                                                   
+  2204.5 hr  ┤│                                                                                                   
+  2204.5 hr  ┤│                                                                                                   
+  2204.5 hr  ┤│                                                                                                   
+  2204.5 hr  ┤│                                                                                                   
+  2204.5 hr  ┤│                                                                                                   
+  2204.5 hr  ┤│                                                                                                   
+  2204.4 hr  ┤│                                                                                                   
+  2204.4 hr  ┼╯                                                                                                   
+             ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
+            -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
+```
 
-## 📦 Featured Projects
+<!-- END_SECTION:ascii_graph -->
+<!-- prettier-ignore-end -->
 
-> （你可以后续把这些项目真的做出来放上去）
-
-- **react-core-notes**  
-  React 源码深度解析与设计思想总结  
-
-- **frontend-engineering-kit**  
-  一套可落地的前端工程化方案合集  
-
-- **ai-dev-workflow**  
-  AI + 工程化的开发效率实践  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=你的GitHub用户名&theme=transparent" />
-</p>
-
----
-
-## 🤝 Let’s Connect
-
-- 💬 喜欢聊：工程化 / React / 架构 / AI + Dev
-- 🌱 长期主义 · 技术深度 · 工程思维
-
-> **Build systems, not just features.**
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhoulinf)](https://github.com/anuraghazra/github-readme-stats)
+<!-- links -->
