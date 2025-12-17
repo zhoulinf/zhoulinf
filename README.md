@@ -13,10 +13,16 @@
   </a>
 </p>
 
-<a href="#zhoulinf-title">
-  <img src="https://raw.githubusercontent.com/zhoulinf/github-stats-transparent/output/generated/overview.svg" alt="zhoulinf" align="right" />
-</a>
 
+这里是我的近况:
+
+- 🔭 构建一个低代码表单引擎
+- 🔭 构建自己的博客系统
+- 🌱 正在学习python
+- 👯 积极使用n8n 帮助自己完成一些自动化工作 ...
+- 🤔 学习prosemirror 使用 ...
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhoulinf)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🧠 About Me
 
