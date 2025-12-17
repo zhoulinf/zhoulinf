@@ -103,12 +103,12 @@
 > 持续开发中...
 
 <p  align="center">
-  <img src="https://raw.githubusercontent.com/zhoulinf/personal_blog/web/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
-  <img src="https://raw.githubusercontent.com/zhoulinf/personal_blog/web/profile-summary-card-output/default/1-repos-per-language.svg">
-  <img src="https://raw.githubusercontent.com/mmphego/mmphego/web/profile-summary-card-output/default/2-most-commit-language.svg"></br></p>
+  <img src="https://raw.githubusercontent.com/zhoulinf/personal_blog/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
+  <img src="https://raw.githubusercontent.com/zhoulinf/personal_blog/master/profile-summary-card-output/default/1-repos-per-language.svg">
+  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/2-most-commit-language.svg">
+  </br>
+</p>
 
 
-<!-- END_SECTION:ascii_graph -->
-<!-- prettier-ignore-end -->
 
 <!-- links -->
