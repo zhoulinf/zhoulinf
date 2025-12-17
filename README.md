@@ -106,8 +106,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhoulinf&show_icons=true&theme=radical)
 
 
-> person_blog
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/zhoulinf/person_blog)
+<p><em>person_blog</em></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/zhoulinf/personal_blog)
 
 
 <!-- links -->
