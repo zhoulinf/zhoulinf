@@ -102,26 +102,11 @@
 
 > 持续开发中...
 
-<!-- prettier-ignore-start -->
-<!-- START_SECTION:ascii_graph -->
+<p  align="center">
+  <img src="https://raw.githubusercontent.com/zhoulinf/personal_blog/web/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
+  <img src="https://raw.githubusercontent.com/zhoulinf/personal_blog/web/profile-summary-card-output/default/1-repos-per-language.svg">
+  <img src="https://raw.githubusercontent.com/mmphego/mmphego/web/profile-summary-card-output/default/2-most-commit-language.svg"></br></p>
 
-```
-  2204.6 hr  ┤╭────────────────────────────────────────────────────────────────────────────────────────────────── 
-  2204.6 hr  ┤│                                                                                                   
-  2204.6 hr  ┤│                                                                                                   
-  2204.6 hr  ┤│                                                                                                   
-  2204.6 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.4 hr  ┤│                                                                                                   
-  2204.4 hr  ┼╯                                                                                                   
-             ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
-            -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
-```
 
 <!-- END_SECTION:ascii_graph -->
 <!-- prettier-ignore-end -->
